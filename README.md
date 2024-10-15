@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dennis, an <a href="https://linkedin.com/in/dteimuno">IT Professional
+<h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno">DevOps/Cloud Engineer
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
