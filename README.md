@@ -37,7 +37,8 @@
 
   
 - <b>Docker Projects</b>
-  -  []()
+  -  [3 Node Docker Swarm Cluster With MySQL and Wordpress Services Implementation with Secrets via Command Line Interface and Docker Stack Deploy
+](https://medium.com/@dteimuno/3-node-docker-swarm-cluster-with-mysql-and-wordpress-services-implementation-with-secrets-via-13e4e4b830b3)
   - [Container Orchestration with Docker Swarm: Configuring Master and Worker Nodes, Developing, Deploying, and Spreading A Docker Service Across Multiple Nodes](https://medium.com/@dteimuno/container-orchestration-with-docker-swarm-configuring-master-and-worker-nodes-developing-f54fde0e065a)
   - [Docker and Jenkins: Continuous Development and Deployment with CLI, Docker Compose and Dockerfile on Ubuntu EC2 Instance](https://medium.com/@dteimuno/docker-and-jenkins-continuous-development-and-deployment-with-cli-docker-compose-and-dockerfile-a1a7dfb244d4)
   - [Docker Container + Image Creation, Testing, and Networking](https://medium.com/@dteimuno/docker-container-image-creation-testing-and-networking-96ae8adf035f)
