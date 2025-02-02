@@ -27,7 +27,7 @@
 - <b>Terraform Projects</b>
   - []()
   - []()
-  - []()
+  - [Terraform Infrastructure-as-Code Deployment For Provisioning a CI/CD Tool(Jenkins) on a Server (AWS EC2) with IAM Permissions and Storage(AWS S3 Bucket) For Software Testing and Deployment](https://medium.com/@dteimuno/terraform-infrastructure-as-code-deployment-for-provisioning-a-ci-cd-tool-jenkins-on-a-server-aws-77ce148fd029)
  
 - <b>Kubernetes Projects</b>
   - []()
