@@ -26,7 +26,8 @@
 
 - <b>Terraform Projects</b>
   - []()
-  - []()
+  - [Reusable Terraform Script For Provisioning Reliable Frontend(Load Distribution) and Backend(Server/Application) Business Infrastructure With S3 Bucket Backend For Reproducibility, Security, and Reliability
+](https://medium.com/@dteimuno/reusable-terraform-script-for-provisioning-reliable-frontend-load-distribution-and-cee20b0f04cb)
   - [Terraform Infrastructure-as-Code Deployment For Provisioning a CI/CD Tool(Jenkins) on a Server (AWS EC2) with IAM Permissions and Storage(AWS S3 Bucket) For Software Testing and Deployment](https://medium.com/@dteimuno/terraform-infrastructure-as-code-deployment-for-provisioning-a-ci-cd-tool-jenkins-on-a-server-aws-77ce148fd029)
  
 - <b>Kubernetes Projects</b>
