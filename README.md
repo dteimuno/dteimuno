@@ -25,7 +25,8 @@
   - [Creating A Static Website via AWS S3](https://medium.com/@dteimuno/creating-a-static-website-via-aws-s3-4f12878631c7)
 
 - <b>Terraform Projects</b>
-  - []()
+  - [Terraform For Deploying Highly Available 2-Tier Infrastructure(Web-Tier and Database Tier) with Load Balancing, Security, Tier Segregation Features
+](https://medium.com/@dteimuno/terraform-for-deploying-highly-available-2-tier-infrastructure-web-tier-and-database-tier-with-c15d9b7ad6cf)
   - [Reusable Terraform Script For Provisioning Reliable Frontend(Load Distribution) and Backend(Server/Application) Business Infrastructure With S3 Bucket Backend For Reproducibility, Security, and Reliability
 ](https://medium.com/@dteimuno/reusable-terraform-script-for-provisioning-reliable-frontend-load-distribution-and-cee20b0f04cb)
   - [Terraform Infrastructure-as-Code Deployment For Provisioning a CI/CD Tool(Jenkins) on a Server (AWS EC2) with IAM Permissions and Storage(AWS S3 Bucket) For Software Testing and Deployment](https://medium.com/@dteimuno/terraform-infrastructure-as-code-deployment-for-provisioning-a-ci-cd-tool-jenkins-on-a-server-aws-77ce148fd029)
