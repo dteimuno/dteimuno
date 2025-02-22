@@ -25,6 +25,8 @@
   - [Creating A Static Website via AWS S3](https://medium.com/@dteimuno/creating-a-static-website-via-aws-s3-4f12878631c7)
 
 - <b>Terraform Projects</b>
+  - [Pod 4 Project: Deploying and Testing Out CI/CD Pipeline With Terraform Provisioned AWS CI/CD Pipeline Infrastructure
+](https://medium.com/@dteimuno/pod-4-project-d3c1bbdb43da)
   - [Terraform For Deploying Highly Available 2-Tier Infrastructure(Web-Tier and Database Tier) with Load Balancing, Security, Tier Segregation Features
 ](https://medium.com/@dteimuno/terraform-for-deploying-highly-available-2-tier-infrastructure-web-tier-and-database-tier-with-c15d9b7ad6cf)
   - [Reusable Terraform Script For Provisioning Reliable Frontend(Load Distribution) and Backend(Server/Application) Business Infrastructure With S3 Bucket Backend For Reproducibility, Security, and Reliability
