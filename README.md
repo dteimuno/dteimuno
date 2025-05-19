@@ -36,7 +36,7 @@
 - <b>Kubernetes Projects</b>
   - []()
   - []()
-  - []()
+  - [Apache Web-Server Deployment on Terraform Deployed EKS Cluster with Secure Access, Observability, and Scalable Infrastructure](https://dev.to/aws-builders/apache-web-server-deployment-on-terraform-deployed-eks-cluster-with-secure-access-observability-5c6k)
 
 
   
