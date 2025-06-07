@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno">DevOps/Cloud/ Site Reliability Engineer
+<h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno"> Cloud Support Engineer
 
 <h>I'm open to work  and interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
 
