@@ -73,6 +73,7 @@
 
 - <b>Python Projects</b>
   - [API Gateway, Boto3, Lambda, and EventBridge to Automate Stopping EC2 Instances At Pre-determined Times](https://medium.com/@dteimuno/api-gateway-boto3-lambda-and-eventbridge-to-automate-stopping-ec2-instances-at-pre-determined-012d87a8fc25)
+  - [Automated AWS EC2 Instance Inventory into CSV File and Upload Into S3 Bucket](https://github.com/dteimuno/python-file-operations)
   - [Python Log Parsing; Resource Monitoring with Psutil Module](https://github.com/dteimuno/python-log-parse-resource-monitor)
   - [Python for Data Extraction: Creating a .py Script For Extracting File Size, Directory Information from Amazon Linux 2023 Instance and MacOS and Storing It Into a Dictionary](https://medium.com/@dteimuno/python-for-data-extraction-creating-a-py-09fe412ec5e0)
  
