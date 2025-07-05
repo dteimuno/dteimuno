@@ -72,6 +72,7 @@
 
 
 - <b>Python Projects</b>
+  - [Python For DevOps: Using Python to Create EC2 instance; Transfer Shell Script To It; Run Shell Script to Install Webserver](https://github.com/dteimuno/python-for-devops-2)
   - [API Gateway, Boto3, Lambda, and EventBridge to Automate Stopping EC2 Instances At Pre-determined Times](https://medium.com/@dteimuno/api-gateway-boto3-lambda-and-eventbridge-to-automate-stopping-ec2-instances-at-pre-determined-012d87a8fc25)
   - [Automated AWS EC2 Instance Inventory into CSV File and Upload Into S3 Bucket](https://github.com/dteimuno/python-file-operations)
   - [Python Log Parsing; Resource Monitoring with Psutil Module](https://github.com/dteimuno/python-log-parse-resource-monitor)
