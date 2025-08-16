@@ -16,6 +16,7 @@
 - <b>AWS Projects</b>
   - [Continuous Integration/Continuous Deployment With GitHub and AWS CodePipeline using Sample HTML Code ](https://medium.com/@dteimuno/continuous-integration-continuous-deployment-with-github-and-aws-codepipeline-using-sample-html-c3edfd0ad605)
   - [IAM+EC2+DynamoDB: Database, Security Role Creation and Attachment, and Webserver Deployment(via Console, Command-Line Interface, and CloudFormation Template)](https://medium.com/@dteimuno/iam-ec2-dynamodb-using-an-ec2-instance-to-access-a-dynamodb-table-via-console-command-line-ae516c308b42)
+  - [CloudFormation Template Deployment of VPC, Internet Gateway, NAT Gateway, Route Table, Security Group, EC2 Instance, EKS Cluster](https://github.com/dteimuno/aws-cloudformation-pickup-exercise)
   - [Two-Tier Infrastructure With Web and Database Tier, Application Load Balancer, Auto Scaling Group Along With Architecture Testing: From Simplex To Complex](https://medium.com/@dteimuno/two-tier-infrastructure-with-web-and-database-tier-application-load-balancer-auto-scaling-group-f0398a951ba0)
   - [Infrastructure as Code Using AWS CloudFormation Templates To Deploy Simple To Complex Cloud Infrastructures (using YAML Templates)](https://medium.com/@dteimuno/infrastructure-as-code-using-aws-cloudformation-templates-to-deploy-simple-to-complex-cloud-03c61b974270)
   - [Cloud Architecture with VPC, Subnets, Application Load Balancer, Autoscaling Group](https://medium.com/@dteimuno/cloud-architecture-with-vpc-subnets-application-load-balancer-autoscaling-group-65e2c105efe4)
