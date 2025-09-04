@@ -47,7 +47,8 @@
   - [Kubernetes Deployment with Two-Path Ingress Routing on EKS via Kubernetes Ingress Route Paths](https://dev.to/aws-builders/kubernetes-deployment-with-two-path-ingress-routing-on-eks-via-kubernetes-ingress-route-paths-2hbn)
   - [Apache Web-Server Deployment on Terraform Deployed EKS Cluster with Secure Access, Observability, and Scalable Infrastructure](https://dev.to/aws-builders/apache-web-server-deployment-on-terraform-deployed-eks-cluster-with-secure-access-observability-5c6k)
  
-
+- <b>GitOps Projects</b>
+  - [Deploying 3-Tier Voting Application With ArgoCD and Azure DevOps CI/CD Process](https://dteimuno.medium.com/787ff97a16b8)
  
   
 - <b>Docker Projects</b>
@@ -67,7 +68,6 @@
 
 - <b>Javascript Projects</b>
 
-- <b>GitOps Projects</b>
 
 
 
