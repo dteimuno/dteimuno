@@ -4,6 +4,10 @@
 
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
+- <b>Nexus Artifactory Repository Manager, Building Software Images & Storing Artifacts</b>
+  - []()
+  - []()
+
 - <b>Kubernetes Projects</b>
   - [Kubernetes Deployment with Two-Path Ingress Routing on EKS via Kubernetes Ingress Route Paths](https://dev.to/aws-builders/kubernetes-deployment-with-two-path-ingress-routing-on-eks-via-kubernetes-ingress-route-paths-2hbn)
   - [Apache Web-Server Deployment on Terraform Deployed EKS Cluster with Secure Access, Observability, and Scalable Infrastructure](https://dev.to/aws-builders/apache-web-server-deployment-on-terraform-deployed-eks-cluster-with-secure-access-observability-5c6k)
