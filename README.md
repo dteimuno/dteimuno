@@ -4,6 +4,21 @@
 
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
+- <b>Kubernetes Projects</b>
+  - [Kubernetes Deployment with Two-Path Ingress Routing on EKS via Kubernetes Ingress Route Paths](https://dev.to/aws-builders/kubernetes-deployment-with-two-path-ingress-routing-on-eks-via-kubernetes-ingress-route-paths-2hbn)
+  - [Apache Web-Server Deployment on Terraform Deployed EKS Cluster with Secure Access, Observability, and Scalable Infrastructure](https://dev.to/aws-builders/apache-web-server-deployment-on-terraform-deployed-eks-cluster-with-secure-access-observability-5c6k)
+ 
+- <b>GitOps Projects</b>
+  - [Deploying 3-Tier Voting Application With ArgoCD and Azure DevOps CI/CD Process](https://dteimuno.medium.com/787ff97a16b8)
+ 
+  
+- <b>Docker Projects</b>
+  -  [3 Node Docker Swarm Cluster With MySQL and Wordpress Services Implementation with Secrets via Command Line Interface and Docker Stack Deploy
+](https://medium.com/@dteimuno/3-node-docker-swarm-cluster-with-mysql-and-wordpress-services-implementation-with-secrets-via-13e4e4b830b3)
+  - [Container Orchestration with Docker Swarm: Configuring Master and Worker Nodes, Developing, Deploying, and Spreading A Docker Service Across Multiple Nodes](https://medium.com/@dteimuno/container-orchestration-with-docker-swarm-configuring-master-and-worker-nodes-developing-f54fde0e065a)
+  - [Docker and Jenkins: Continuous Development and Deployment with CLI, Docker Compose and Dockerfile on Ubuntu EC2 Instance](https://medium.com/@dteimuno/docker-and-jenkins-continuous-development-and-deployment-with-cli-docker-compose-and-dockerfile-a1a7dfb244d4)
+  - [Docker Container + Image Creation, Testing, and Networking](https://medium.com/@dteimuno/docker-container-image-creation-testing-and-networking-96ae8adf035f)
+
 - <b>Microsoft Azure & Azure AI  Projects</b>
   - [Azure VM Deployment, Image Creation Out Of VM, and Image Store In Gallery Project](https://github.com/dteimuno/create-azurevm-and-image-fromvm)
   - [Upload-and-Receive Azure AI Text and Image Analysis Setup via Azure Functions, Azure AI Services, and Azure Storage Account Upon Upload to Blob Storage](https://medium.com/@dteimuno/utilizing-azure-functions-blob-storage-container-and-cognitive-services-computer-vision-text-ea2d24a194ff)
@@ -43,20 +58,7 @@
   - [Python Log Parsing; Resource Monitoring with Psutil Module](https://github.com/dteimuno/python-log-parse-resource-monitor)
   - [Python for Data Extraction: Creating a .py Script For Extracting File Size, Directory Information from Amazon Linux 2023 Instance and MacOS and Storing It Into a Dictionary](https://medium.com/@dteimuno/python-for-data-extraction-creating-a-py-09fe412ec5e0)
 
-- <b>Kubernetes Projects</b>
-  - [Kubernetes Deployment with Two-Path Ingress Routing on EKS via Kubernetes Ingress Route Paths](https://dev.to/aws-builders/kubernetes-deployment-with-two-path-ingress-routing-on-eks-via-kubernetes-ingress-route-paths-2hbn)
-  - [Apache Web-Server Deployment on Terraform Deployed EKS Cluster with Secure Access, Observability, and Scalable Infrastructure](https://dev.to/aws-builders/apache-web-server-deployment-on-terraform-deployed-eks-cluster-with-secure-access-observability-5c6k)
- 
-- <b>GitOps Projects</b>
-  - [Deploying 3-Tier Voting Application With ArgoCD and Azure DevOps CI/CD Process](https://dteimuno.medium.com/787ff97a16b8)
- 
-  
-- <b>Docker Projects</b>
-  -  [3 Node Docker Swarm Cluster With MySQL and Wordpress Services Implementation with Secrets via Command Line Interface and Docker Stack Deploy
-](https://medium.com/@dteimuno/3-node-docker-swarm-cluster-with-mysql-and-wordpress-services-implementation-with-secrets-via-13e4e4b830b3)
-  - [Container Orchestration with Docker Swarm: Configuring Master and Worker Nodes, Developing, Deploying, and Spreading A Docker Service Across Multiple Nodes](https://medium.com/@dteimuno/container-orchestration-with-docker-swarm-configuring-master-and-worker-nodes-developing-f54fde0e065a)
-  - [Docker and Jenkins: Continuous Development and Deployment with CLI, Docker Compose and Dockerfile on Ubuntu EC2 Instance](https://medium.com/@dteimuno/docker-and-jenkins-continuous-development-and-deployment-with-cli-docker-compose-and-dockerfile-a1a7dfb244d4)
-  - [Docker Container + Image Creation, Testing, and Networking](https://medium.com/@dteimuno/docker-container-image-creation-testing-and-networking-96ae8adf035f)
+
 
 
 
