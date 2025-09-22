@@ -5,8 +5,7 @@
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
 - <b>Nexus Artifactory Repository Manager, Building Software Images & Storing Artifacts</b>
-  - []()
-  - []()
+  - [Building NodeJS Artifact from Javascript code; publishing to Nexus, Querying Nexus API For Artifact Download](https://github.com/dteimuno/nexus-npm-and-mvn-project/tree/main)
 
 - <b>Kubernetes Projects</b>
   - [Kubernetes Deployment with Two-Path Ingress Routing on EKS via Kubernetes Ingress Route Paths](https://dev.to/aws-builders/kubernetes-deployment-with-two-path-ingress-routing-on-eks-via-kubernetes-ingress-route-paths-2hbn)
