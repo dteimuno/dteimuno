@@ -1,8 +1,10 @@
 <h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno"> Cloud/DevOps Engineer
 
 <h>I'm open to work  and interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
-
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
+
+- <b>CI/CD Projects</b>
+  - [GitLab CI/CD Pipeline For Dockerizing NodeJS App, Incrementing App Version, Committing To Git, and Pushing To DockerHub Repository](https://github.com/dteimuno/gitlab-nodejs-buildimage-with-versioning/tree/master)
 
 - <b>Nexus Artifactory Repository Manager, Building Software Images & Storing Artifacts</b>
   - [Building NodeJS Artifact from Javascript code; publishing to Nexus, Querying Nexus API For Artifact Download](https://github.com/dteimuno/nexus-npm-and-mvn-project/tree/main)
