@@ -1,5 +1,7 @@
 <h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno"> Cloud/DevOps Engineer
+
 [My LinkedIn](https://linkedin.com/in/dteimuno)
+
 <h>I'm open to work  and interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
