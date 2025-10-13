@@ -69,10 +69,35 @@
 - <b>Linux Projects</b>
   - [Linux Administration: Creating Users, Directories, and Groups; Assigning Permissions, and Automating It All Through Bash Scripting](https://medium.com/@dteimuno/linux-administration-creating-users-directories-and-groups-assigning-permissions-and-testing-74a247fae9e6)
   - [Setting Up Apache on Amazon Linux 2, Creating a Custom HTML Landing Page, and Redirecting Access and Error Logs Into saved files](https://medium.com/@dteimuno/setting-up-apache-on-amazon-linux-2-creating-a-custom-html-landing-page-and-redirecting-access-eb064d56f833)
+ 
+Coming Soon:
 
 - <b>Helm Projects</b>
-
 - <b>Javascript Projects</b>
+- <b>Bamboo CI Projects</b>
+- <b>GitLab Ci Specific Projects</b>
+- <b>Kakfa Projects</b>
+- <b>AWS ECS Projects</b>
+- <b>Vault Projects</b>
+- <b>FastAPI & API Dev/Management Projects</b>
+- <b>Postman Projects</b>
+- <b>Datadog Observability Projects</b>
+- <b>Splunk Logging and Observability Projects</b>
+- <b>Istio Service Mesh Projects</b>
+- <b>System Design Projects</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
