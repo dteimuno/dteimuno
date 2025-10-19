@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno"> Cloud/DevOps Engineer
-<h>I'm open to work  and interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
+<h>I'm interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
 - <b>CI/CD Projects</b>
