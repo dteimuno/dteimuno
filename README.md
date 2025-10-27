@@ -63,20 +63,18 @@
   - [Python for Data Extraction: Creating a .py Script For Extracting File Size, Directory Information from Amazon Linux 2023 Instance and MacOS and Storing It Into a Dictionary](https://medium.com/@dteimuno/python-for-data-extraction-creating-a-py-09fe412ec5e0)
 
 
-
-
-
 - <b>Linux Projects</b>
   - [Linux Administration: Creating Users, Directories, and Groups; Assigning Permissions, and Automating It All Through Bash Scripting](https://medium.com/@dteimuno/linux-administration-creating-users-directories-and-groups-assigning-permissions-and-testing-74a247fae9e6)
   - [Setting Up Apache on Amazon Linux 2, Creating a Custom HTML Landing Page, and Redirecting Access and Error Logs Into saved files](https://medium.com/@dteimuno/setting-up-apache-on-amazon-linux-2-creating-a-custom-html-landing-page-and-redirecting-access-eb064d56f833)
- 
+
+ - <b>Kakfa Projects</b>
+    - [Simulating A Real-Time Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dteimuno.medium.com/simulating-a-real-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-2e89f1502ca0)
 Coming Soon:
 
 - <b>Helm Projects</b>
 - <b>Javascript Projects</b>
 - <b>Bamboo CI Projects</b>
 - <b>GitLab Ci Specific Projects</b>
-- <b>Kakfa Projects</b>
 - <b>AWS ECS Projects</b>
 - <b>Vault Projects</b>
 - <b>FastAPI & API Dev/Management Projects</b>
