@@ -72,6 +72,8 @@
 Coming Soon:
 
 - <b>Helm Projects</b>
+- <b>Golang Projects</b>
+- <b>WSO2 API Projects</b>
 - <b>Javascript Projects</b>
 - <b>Bamboo CI Projects</b>
 - <b>GitLab Ci Specific Projects</b>
