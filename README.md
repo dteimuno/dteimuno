@@ -70,7 +70,7 @@
  - <b>Kakfa Projects</b>
     - [Simulating A Real-Time Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dteimuno.medium.com/simulating-a-real-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-2e89f1502ca0)
 Coming Soon:
-
+- <b>SSL/Certificate Renewal/Rotation Projects</b>
 - <b>Helm Projects</b>
 - <b>Golang Projects</b>
 - <b>WSO2 API Projects</b>
