@@ -69,6 +69,10 @@
 
  - <b>Kakfa Projects</b>
     - [Simulating A Real-Time Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dteimuno.medium.com/simulating-a-real-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-2e89f1502ca0)
+  
+-  <b>Splunk Logging and Observability Projects</b>
+    - [Setting Up Kubernetes Cluster Telemetry With Splunk Observability Cloud + Chaos Engineering for Testing](https://medium.com/@dteimuno/setting-up-kubernetes-cluster-telemetry-with-splunk-observability-cloud-chaos-engineering-for-3da8153f476e)
+
 Coming Soon:
 - <b>SSL/Certificate Renewal/Rotation Projects</b>
 - <b>Helm Projects</b>
@@ -82,7 +86,6 @@ Coming Soon:
 - <b>FastAPI & API Dev/Management Projects</b>
 - <b>Postman Projects</b>
 - <b>Datadog Observability Projects</b>
-- <b>Splunk Logging and Observability Projects</b>
 - <b>Istio Service Mesh Projects</b>
 - <b>System Design Projects</b>
 
