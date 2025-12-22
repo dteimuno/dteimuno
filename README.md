@@ -15,6 +15,9 @@
 - <b>GitOps Projects</b>
   - [Deploying 3-Tier Voting Application With ArgoCD and Azure DevOps CI/CD Process](https://dteimuno.medium.com/787ff97a16b8)
  
+- <b>SSL/Certificate Renewal/Rotation/Lifecycle Projects</b>
+  - 
+
   
 - <b>Docker Projects</b>
   -  [3 Node Docker Swarm Cluster With MySQL and Wordpress Services Implementation with Secrets via Command Line Interface and Docker Stack Deploy
@@ -75,7 +78,6 @@
     - [Setting Up Datadog Kubernetes Cluster Telemetry + Chaos Engineering Testing Alerting](https://dteimuno.medium.com/setting-up-datadog-kubernetes-cluster-telemetry-chaos-engineering-testing-alerting-15828da8176c?postPublishedType=initial)
 
 Coming Soon:
-- <b>SSL/Certificate Renewal/Rotation Projects</b>
 - <b>Helm Projects</b>
 - <b>Golang Projects</b>
 - <b>WSO2 API Projects</b>
