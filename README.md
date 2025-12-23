@@ -16,7 +16,7 @@
   - [Deploying 3-Tier Voting Application With ArgoCD and Azure DevOps CI/CD Process](https://dteimuno.medium.com/787ff97a16b8)
  
 - <b>SSL/Certificate Renewal/Rotation/Lifecycle Projects</b>
-  - 
+  - [Serving Up Apache on HTTPS on EC2 Instance](https://medium.com/@dteimuno/serving-up-apache-on-https-on-ec2-instance-12d1d306a563)
 
   
 - <b>Docker Projects</b>
