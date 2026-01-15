@@ -77,6 +77,9 @@
     - [Setting Up Kubernetes Cluster Telemetry With Splunk Observability Cloud + Chaos Engineering for Testing](https://medium.com/@dteimuno/setting-up-kubernetes-cluster-telemetry-with-splunk-observability-cloud-chaos-engineering-for-3da8153f476e)
     - [Setting Up Datadog Kubernetes Cluster Telemetry + Chaos Engineering Testing Alerting](https://dteimuno.medium.com/setting-up-datadog-kubernetes-cluster-telemetry-chaos-engineering-testing-alerting-15828da8176c?postPublishedType=initial)
 
+ - <b>Infrastructure Setup Projects</b>
+    - []()
+
 Coming Soon:
 - <b>Helm Projects</b>
 - <b>Golang Projects</b>
