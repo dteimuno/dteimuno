@@ -77,6 +77,7 @@
     - [Setting Up Kubernetes Cluster Telemetry With Splunk Observability Cloud + Chaos Engineering for Testing](https://medium.com/@dteimuno/setting-up-kubernetes-cluster-telemetry-with-splunk-observability-cloud-chaos-engineering-for-3da8153f476e)
     - [Setting Up Datadog Kubernetes Cluster Telemetry + Chaos Engineering Testing Alerting](https://dteimuno.medium.com/setting-up-datadog-kubernetes-cluster-telemetry-chaos-engineering-testing-alerting-15828da8176c?postPublishedType=initial)
     - [Simple Prometheus Monitoring Setup On Server As SystemD Service To Monitor Two Other Servers](https://dteimuno.medium.com/simple-prometheus-monitoring-setup-on-server-as-systemd-service-to-monitor-two-other-servers-92262d377ac7)
+    - [Installing Docker On Local Machine & Enabling Prometheus Monitoring of Docker Containers](https://dteimuno.medium.com/installing-docker-on-local-machine-enabling-prometheus-monitoring-of-docker-containers-d3cf4ee42905?postPublishedType=initial)
 
  - <b>Infrastructure Setup Projects</b>
     - []()
