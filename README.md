@@ -73,6 +73,10 @@
  - <b>Kakfa Projects</b>
     - [Simulating A Real-Time Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dteimuno.medium.com/simulating-a-real-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-2e89f1502ca0)
   
+- <b>Helm Projects</b>
+    - [Helm Installation of Gitlab 19.1.1 on 3 Node EKS Cluster](https://dteimuno.medium.com/helm-installation-of-gitlab-19-1-1-on-3-node-eks-cluster-2ba783591bda?postPublishedType=repub)
+    - [Creating Redis Cluster in EKS via Helm](https://medium.com/@dteimuno/creating-redis-cluster-in-eks-via-helm-176a4b129485)
+
 -  <b>Monitoring and Observability Projects</b>
     - [Setting Up Kubernetes Cluster Telemetry With Splunk Observability Cloud + Chaos Engineering for Testing](https://medium.com/@dteimuno/setting-up-kubernetes-cluster-telemetry-with-splunk-observability-cloud-chaos-engineering-for-3da8153f476e)
     - [Setting Up Datadog Kubernetes Cluster Telemetry + Chaos Engineering Testing Alerting](https://dteimuno.medium.com/setting-up-datadog-kubernetes-cluster-telemetry-chaos-engineering-testing-alerting-15828da8176c?postPublishedType=initial)
@@ -80,12 +84,12 @@
     - [Installing Docker On Local Machine & Enabling Prometheus Monitoring of Docker Containers](https://dteimuno.medium.com/installing-docker-on-local-machine-enabling-prometheus-monitoring-of-docker-containers-d3cf4ee42905?postPublishedType=initial)
     - [Setting Up Kubeadm Kubernetes Cluster with In-Cluster Prometheus Monitoring and Grafana Visualization](https://dteimuno.medium.com/setting-up-kubeadm-kubernetes-cluster-with-in-cluster-prometheus-monitoring-and-grafana-a22c891fc600?postPublishedType=initial)
 
- - <b>Infrastructure Setup Projects</b>
-    - []()
 
-Coming Soon:
-- <b>Helm Projects</b>
+
+
+Soon:
 - <b>Golang Projects</b>
+- <b>Infrastructure Setup Projects</b>
 - <b>WSO2 API Projects</b>
 - <b>Javascript Projects</b>
 - <b>Bamboo CI Projects</b>
