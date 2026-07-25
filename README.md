@@ -84,15 +84,15 @@
     - [Installing Docker On Local Machine & Enabling Prometheus Monitoring of Docker Containers](https://dteimuno.medium.com/installing-docker-on-local-machine-enabling-prometheus-monitoring-of-docker-containers-d3cf4ee42905?postPublishedType=initial)
     - [Setting Up Kubeadm Kubernetes Cluster with In-Cluster Prometheus Monitoring and Grafana Visualization](https://dteimuno.medium.com/setting-up-kubeadm-kubernetes-cluster-with-in-cluster-prometheus-monitoring-and-grafana-a22c891fc600?postPublishedType=initial)
 
-
-
+- <b>Shell Scripting Projects</b>
+    - [Installing E-Commerce LAMP Stack Application With Shell Scripting](https://dteimuno.medium.com/shell-scripting-project-e-commerce-application-on-rocky-linux-9-with-error-handling-6abe322fc3e1?postPublishedType=initial)
 
 Soon:
 - <b>Golang Projects</b>
 - <b>Infrastructure Setup Projects</b>
 - <b>WSO2 API Projects</b>
 - <b>Javascript Projects</b>
-- <b>Bamboo CI Projects</b>
+
 - <b>GitLab Ci Specific Projects</b>
 - <b>AWS ECS Projects</b>
 - <b>Vault Projects</b>
