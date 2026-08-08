@@ -86,6 +86,7 @@
 
 - <b>Shell Scripting Projects</b>
     - [Installing E-Commerce LAMP Stack Application With Shell Scripting](https://dteimuno.medium.com/shell-scripting-project-e-commerce-application-on-rocky-linux-9-with-error-handling-6abe322fc3e1?postPublishedType=initial)
+    - [File System Audits For Security Vulnerabilities via Shell Scripting](https://dteimuno.medium.com/file-system-audits-for-security-vulnerabilities-via-shell-scripting-6e456a9fc797?postPublishedType=initial)
 
 Soon:
 - <b>Golang Projects</b>
