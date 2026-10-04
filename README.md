@@ -1,7 +1,10 @@
 <h1>Hi, I'm Dennis, a <a href="https://linkedin.com/in/dteimuno"> Cloud/DevOps Engineer
-<h>I'm interested in Devops/Cloud/Platform/Site Reliability Engineering Roles</h>
 <h2>👨‍💻 Cloud DevOps Engineer Projects:</h2>
 
+- <b>AI Practical Application Projects</b>
+    - [Kubernetes Cluster and Object Manipulation with Kubernetes MCP Server](https://medium.com/@dteimuno/kubernetes-cluster-and-object-manipulation-with-kubernetes-mcp-server-14d052b9ca82)
+
+    - 
 - <b>CI/CD Projects</b>
   - [GitLab CI/CD Pipeline For Dockerizing NodeJS App, Incrementing App Version, Committing To Git, and Pushing To DockerHub Repository](https://github.com/dteimuno/gitlab-nodejs-buildimage-with-versioning/tree/master)
 
